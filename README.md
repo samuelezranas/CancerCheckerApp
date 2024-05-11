@@ -1,35 +1,23 @@
-# Submission of Cancer Detection Application
-Before I explain how this application works and submission checklist, I want to say **thank you** to **Dicoding Indonesia** and **Bangkit Academy** for providing "Belajar Penerapan Machine Learning untuk Android" class and **thank you** to **Dicoding Reviewer** for approving my final submission.
-### How the app works
-1. Using Starter Project
-2. Features of Taking Pictures and Displaying Them
-3. Using Machine Learning Models from Dicoding
-4. Using Tensorflow Lite to Predict Images
-5. Display Prediction Results on the ResultActivity Page
-6. Changing the Application Appearance
-7. Add Crop and Rotate Features Before Image Processing
-8. Storing Prediction History Data Using a Local Database
-9. Displays Information Relevant to Cancer from the API
-### Prerequisites
+# Cancer Checker App
+**Thanks** to **Dicoding Indonesia** for providing the "Belajar Penerapan Machine Learning untuk Android" class and **Bangkit Academy** for giving me access to finish this class. This is my final submission for this class.
 
-Before running this app, you need active or remove comment and to add your API [helth](https://newsapi.org/s/indonesia-health-news-api), in your `Build.gradle(Module ..)` file:
+### App Layout
+<img src="home1.jpg"/>
+<img src="home2.jpg"/>
+<img src="news1.jpg"/>
+<img src="home2.jpg"/>
+<img src="history1.jpg"/>
+<img src="history2.jpg"/>
 
-```yaml
-//        buildConfigField("String", "NEWS_API_KEY", "\"YOUR_API\"")
-//        buildConfigField("String", "NEWS_API_URL", "\"https://newsapi.org/v2/\"")
-```
+### App Features
+- Using Starter Project by Dicoding
+- Cropping & Rotating Image Features
+- Feature Capture Image from the Gallery and Display it
+- Using Tensorflow Lite Machine Learning Model to Predict Images
+- Display the news page obtained from the News API
+- Displaying the History Features of the Prediction that has been saved
 
-### Submission CheckList
-- Menggunakan Starter Project
-- Fitur Mengambil Gambar dan Menampilkannya
-- Menggunakan Model Machine Learning dari Dicoding
-- Menggunakan Tensorflow Lite untuk Memprediksi Gambar
-- Menampilkan Hasil Prediksi di Halaman ResultActivity
-  
-#### Reviewer Rating 
-<img src="bangkitstar.png"/><br>
-:star: :star: :star: :star: :star:<br>
-### Dependencies :
+### Dependencies
 - [Lifecycle & Livedata](https://developer.android.com/jetpack/androidx/releases/lifecycle)
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [Retrofit 2](https://square.github.io/retrofit/)    
