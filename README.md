@@ -4,12 +4,12 @@
 ## App Layout
 
 <div style="overflow-x: auto; white-space: nowrap;">
-    <img height="350em" src="home1.jpg"/>
-    <img height="350em" src="home2.jpg"/>
-    <img height="350em" src="news1.jpg"/>
-    <img height="350em" src="home2.jpg"/>
-    <img height="350em" src="history1.jpg"/>
-    <img height="350em" src="history2.jpg"/>
+    <img height="350em" src="image-readme/home1.jpg"/>
+    <img height="350em" src="image-readme/home2.jpg"/>
+    <img height="350em" src="image-readme/news1.jpg"/>
+    <img height="350em" src="image-readme/home2.jpg"/>
+    <img height="350em" src="image-readme/history1.jpg"/>
+    <img height="350em" src="image-readme/history2.jpg"/>
 </div>
 <br>
 
