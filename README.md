@@ -1,8 +1,35 @@
-# Cancer Checker App
-**Thanks** to **Dicoding Indonesia** for providing the "Belajar Penerapan Machine Learning untuk Android" class and **Bangkit Academy** for giving me access to finish this class. This is my final submission for this class.<br>
+<h1 align="center">
+  Cancer Checker App
+</h1>
+<p align="center">
+  Thanks to <b>Dicoding Indonesia</b> for providing the <b>"Belajar Penerapan Machine Learning untuk Android" class</b> and <b>Bangkit Academy</b> for giving me access to finish this class. This is my final submission for this class.<br>
+</p>
+
+<p align="center">
+  <a href="http://developer.android.com/index.html"><img alt="Platform" src="https://img.shields.io/badge/platform-Android-green.svg"></a>
+  <a href="http://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-1.4.20-blue.svg"></a>
+  <a href="https://developer.android.com/studio/releases/gradle-plugin"><img alt="Gradle" src="https://img.shields.io/badge/gradle-4.1.1-yellow.svg"></a>
+</p>
+
+<p align="center">
+  <img src="image-readme/frame-11.png"/>
+</p>
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [App Layout](#app-layout)
+- [App Features](#app-features)
+- [Dependencies](#dependencies)
+
+## Installation
+
+Clone the repository or Download the zip & Open it into Android Studio
+```
+    https://github.com/samuelezranas/CancerCheckerApp.git
+```
 
 ## App Layout
-
 <div style="overflow-x: auto; white-space: nowrap;">
     <img height="350em" src="image-readme/home1.jpg"/>
     <img height="350em" src="image-readme/home2.jpg"/>
