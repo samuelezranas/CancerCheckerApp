@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="http://developer.android.com/index.html"><img alt="Platform" src="https://img.shields.io/badge/platform-Android-green.svg"></a>
-  <a href="http://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-1.4.20-blue.svg"></a>
-  <a href="https://developer.android.com/studio/releases/gradle-plugin"><img alt="Gradle" src="https://img.shields.io/badge/gradle-4.1.1-yellow.svg"></a>
+  <a href="http://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-updated-blue.svg"></a>
+  <a href="https://developer.android.com/studio/releases/gradle-plugin"><img alt="Gradle" src="https://img.shields.io/badge/gradle-8.2.0-yellow.svg"></a>
+  <a href="https://github.com/samuelezranas/CancerCheckerApp/"><img alt="Star" src="https://img.shields.io/github/stars/samuelezranas/CancerCheckerApp"></a>
 </p>
 
 <p align="center">
