@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="image-readme/frame-11.png"/>
+  <img src="image-readme/thumbnail.png"/>
 </p>
 
 ## Table of Contents
